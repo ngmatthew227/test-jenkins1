@@ -45,4 +45,4 @@ def numberToWords(n):
   
 # Driver Code 
 # n = int(input("Enter a number: "))
-print(numberToWords(123456789))
+print(numberToWords(12300))
